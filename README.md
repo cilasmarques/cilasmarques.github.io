@@ -2,13 +2,13 @@
 
 ## GIT
 
-1. [Guia Pratico](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+1. [Roger Dudler: Guia Pratico](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 1. [Corey Schafer: Git Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
-1. [Git Flow Cheat-sheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+1. [Daniel Kummer: Git Flow Cheat-sheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 
 ## MARKDOWN
 
-1. [Markdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+1. [Adam Pritchard: Markdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ## PYTHON
 
@@ -21,19 +21,23 @@
 
 ## WEB-DEV
 
-### HTML
+See GENERAL references first.
+
+### GENERAL
+
+1. [Transversy Media: Web Development Crash Courses](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+1. [Transversy Media: Youtube Channel](https://www.youtube.com/user/TechGuyWeb/)
+
+### SPECIFIC
+
+#### HTML AND CSS
 
 1. [RBTech: HTML e CSS para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL)
 
-### CSS
-
-1. [Transversy Media: CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o&t=940s)
-
-### JAVASCRIPT
+#### JAVASCRIPT
 
 1. [JavaScript: Understanding the weird parts](https://www.youtube.com/watch?v=Bv_7Zv5c-Ts&t=4763s)
 
-### FRAMEWORKS
 
 #### REACT
 
