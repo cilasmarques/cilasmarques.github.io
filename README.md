@@ -42,10 +42,10 @@ Simple study guide for a computer science developer.
 
 #### GIT
 
+1. [Git Branch](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge)
 1. [Roger Dudler: Guia Pratico](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 1. [Corey Schafer: Git Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 1. [Daniel Kummer: Git Flow Cheat-sheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
-1. [Git Branch](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge)
 
 #### MarkDown
 
