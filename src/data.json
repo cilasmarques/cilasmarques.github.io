@@ -1,0 +1,35 @@
+{
+  "general": [
+    {"author": "Corey Schafer",
+     "title": "Programming Terms",
+     "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTsnP0Nl1UDY8VZAlHu1m_MQ"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"}
+
+  ],
+  "python": [
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
+    {"author": "Corey Schafer",
+      "title": "Python Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"}
+
+  ]
+}
