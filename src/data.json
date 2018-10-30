@@ -1,58 +1,53 @@
 {
-    "programming languages" : [
-        {"general" : {  "author": "Correy Schafer",
+        "programming languages" : [ {  "author": "Correy Schafer",
                         "title": "Programming Terms",
                         "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTsnP0Nl1UDY8VZAlHu1m_MQ"}
-        },
+        ],
 
-        {"phyton" :  [   {"author": "Correy Schafer",
+        "phyton" :  [   {"author": "Correy Schafer",
                         "title": "Python Tutorials",
                         "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"},
                         
                         {"author": "Socratica",
                         "title": "Python Programming Tutorials",
                         "link": "https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-"}                
-        ]},
+        ],
 
-        {"java" :    {  "author": "Loiane Groner",
+        "java" : [   {  "author": "Loiane Groner",
                         "title": "Curso de Java Básico Gratuito",
                         "link": "https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"}
-        }
-    ],
+        ],
 
-    "web-dev" : [
-        {"general" : [  {"author": "Transversy Media",
+        "web-dev" : [  {"author": "Transversy Media",
                         "title": "Web Development Crash Courses",
                         "link": "https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8"},
                     
                         {"author": "Transversy Media",
                         "title": "Youtube Channel",
                         "link": "https://www.youtube.com/user/TechGuyWeb/"}
-        ]},
+        ],
 
-        {"html and css" :  {    "author": "RBTech",
+        "html and css" : [  {    "author": "RBTech",
                                 "title": "HTML e CSS para iniciantes",
                                 "link": "https://www.youtube.com/playlist?list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL"}                
-        },
+        ],
 
-        {"javaScript" :    {    "author": "JavaScript",
+        "javaScript" : [    {    "author": "JavaScript",
                                 "title": "Understanding the weird parts",
                                 "link": "https://www.youtube.com/watch?v=Bv_7Zv5c-Ts&t=4763s"}
-        },
+        ],
     
         
-        {"reactjs" :  [    {"author": "LearnCode.Academy",
+        "reactjs" :  [    {"author": "LearnCode.Academy",
                             "title": "ReactJS Tutorials",
                             "link": "https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b"},
                             
                             {"author": "LearnCode.Academy",
                             "title": "JavaScript Fundamentals",
                             "link": "https://www.youtube.com/playlist?list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V"}
-        ]}
-    ],
+        ],
 
-    "tools" : [
-        {"git" : [  {"author": "GitHub",
+        "git" : [  {"author": "GitHub",
                     "title": "Git Branch",
                     "link": "https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-B%C3%A1sico-de-Branch-e-Merge"},
             
@@ -67,11 +62,10 @@
                     {"author": "Daniel Kummer",
                     "title": "Git Flow Cheat-sheet",
                     "link": "https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html"}
-        ]},
+        ],
 
-        {"markdown" : { "author": "Adam Pritchard",
+        "markdown" : [ { "author": "Adam Pritchard",
                         "title": "Markdown cheat-sheet",
                         "link": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links"}
-        }
     ]
 }
