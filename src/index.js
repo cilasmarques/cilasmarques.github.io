@@ -24,13 +24,14 @@ class App extends Component{
         return (
             <MuiThemeProvider> 
                 <div>
-                    <AppBar title="Cilânsdia" onClick = {() => _toggleDrawer} /> 
-                    <Drawer open={this.state.drawerOpened} docked={false} onRequestChange={() => this._toggleDrawer}>
-                        <List>
-                            <ListItem> mai rapai </ListItem>
-                            <ListItem> rapai mai</ListItem>
-                        </List>
-                    </Drawer>>
+                    <AppBar className="AppBar" title="Cilânsdia" onClick = {() => this._toggleDrawer()}>  
+                        <Drawer open={this.state.drawerOpened} docked={false} onRequestChange={() => this._toggleDrawer}>
+                            <List>
+                                <ListItem> mai rapai </ListItem>
+                                <ListItem> rapai mai</ListItem>
+                            </List>
+                        </Drawer>
+                    </AppBar>
                 </div>
             </MuiThemeProvider>
             
