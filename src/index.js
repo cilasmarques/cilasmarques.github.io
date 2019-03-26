@@ -1,10 +1,13 @@
 import ReactDOM from 'react-dom';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
+import AppBar from 'material-ui/AppBar'
 import React, {Component} from 'react';
-import Formulario from './Formulario'
 
 class App extends Component{
     render(){
-        return <Formulario placeHolderDoInput="EntradaDoFormulario"/>
+        return (
+        <MuiThemeProvider> <AppBar/> </MuiThemeProvider>
+        );
     };
 };
 
