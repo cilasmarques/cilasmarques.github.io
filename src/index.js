@@ -8,6 +8,7 @@ import getMuiTheme from 'material-ui/styles/getMuiTheme'
 import {red, pink500} from '@material-ui/core/colors'
 import './App.css'; 
 import { RaisedButton } from 'material-ui';
+import SimpleExpansionPanel from './ExpansionPanel'
 
 /*
 import createMuiTheme  from '@material-ui/core/styles';
@@ -56,20 +57,20 @@ class App extends Component{
             <MuiThemeProvider muiTheme={muiTheme}> 
                 <div>
                     <AppBar className="AppBar" title="Cilânsdia" onLeftIconButtonClick = {() => this._toggleDrawer()}>
-                        <input type="" placeholder="Escreve ai"/>  
                         <Drawer open={this.state.drawerOpened} docked={false} onRequestChange={() => this._toggleDrawer()}>
                             <List>
-                                <ListItem> mai rapai </ListItem>
-                                <ListItem> rapai mai</ListItem>
+                                <ListItem onClick={() => this._toggleDrawer()}> Studies References </ListItem>
                             </List>
                         </Drawer>
                     </AppBar>
                 </div>
-
                 <div>
-                    <RaisedButton label="Testando tema" secondary={true} p/>
+                    <SimpleExpansionPanel>
+                        
+                    </SimpleExpansionPanel>
                 </div>
             </MuiThemeProvider>
+                
             
         );
     };
