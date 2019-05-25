@@ -12,7 +12,6 @@ import SimpleExpansionPanel from './ExpansionPanel'
 
 /*
 import createMuiTheme  from '@material-ui/core/styles';
-
 const muiTheme = getMuiTheme({
   palette: {
     primary: {
@@ -65,13 +64,9 @@ class App extends Component{
                     </AppBar>
                 </div>
                 <div>
-                    <SimpleExpansionPanel>
-                        
-                    </SimpleExpansionPanel>
+                  <SimpleExpansionPanel/>
                 </div>
-            </MuiThemeProvider>
-                
-            
+            </MuiThemeProvider>            
         );
     };
 };
