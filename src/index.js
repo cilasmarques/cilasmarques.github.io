@@ -5,7 +5,7 @@ import AppBar from 'material-ui/AppBar'
 import Drawer from 'material-ui/Drawer'
 import {List, ListItem} from 'material-ui/List'
 import getMuiTheme from 'material-ui/styles/getMuiTheme'
-import {red, pink500} from '@material-ui/core/colors'
+import {red, pink} from '@material-ui/core/colors'
 import './App.css'; 
 import { RaisedButton } from 'material-ui';
 import SimpleExpansionPanel from './ExpansionPanel'
@@ -33,7 +33,7 @@ const muiTheme = getMuiTheme({
 const muiTheme = getMuiTheme({
     palette: {
         primary: red,
-        secondary: pink500
+        secondary: pink
     }
 });
 

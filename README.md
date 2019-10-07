@@ -21,6 +21,8 @@ Simple study guide for a computer science developer.
 
 #### General
 
+
+1. [Basic Frontend && Backend](https://projsoft-ufcg.github.io/)
 1. [Transversy Media: Web Development Crash Courses](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
 1. [Transversy Media: Youtube Channel](https://www.youtube.com/user/TechGuyWeb/)
 

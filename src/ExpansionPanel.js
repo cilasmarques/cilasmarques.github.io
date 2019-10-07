@@ -6,6 +6,7 @@ import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
 import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
 import Typography from '@material-ui/core/Typography';
 import Link from '@material-ui/core/Link';
+import nl2br from 'react-newline-to-break';
 
 const styles = theme => ({
   root: {
@@ -25,13 +26,13 @@ function SimpleExpansionPanel(props) {
           <Typography>{props.titulo}</Typography>
         </ExpansionPanelSummary>
         <ExpansionPanelDetails>
-            <Link href={props.link1}><p>{props.nome1}</p></Link> 
-            <Link href={props.link2}><p>{props.nome2}</p></Link> 
-            <text><Link href={props.link3}>{props.nome3}</Link></text> 
-            <text><Link href={props.link4}>{props.nome4}</Link></text> 
+            <Link href={props.link1}><div> Hello {nl2br(props.nome1)}</div></Link> 
+            <Link href={props.link2}>{props.nome2}</Link> 
+            <Link href={props.link3}>{props.nome3}</Link>
+            <Link href={props.link4}>{props.nome4}</Link> 
         </ExpansionPanelDetails>
       </ExpansionPanel>
-    </div>
+    </div>            
   );}
 
 SimpleExpansionPanel.propTypes = {
