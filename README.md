@@ -48,6 +48,8 @@ Simple study guide for a computer science developer.
 1. [Roger Dudler: Guia Pratico](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 1. [Corey Schafer: Git Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 1. [Daniel Kummer: Git Flow Cheat-sheet](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+1. [Stackoverflow: Git Reset/Rename Branch](https://stackoverflow.com/questions/15454555/how-can-i-completely-empty-the-master-branch-in-git)
+
 
 #### MarkDown
 
