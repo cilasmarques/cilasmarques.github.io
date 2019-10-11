@@ -33,7 +33,7 @@ Simple study guide for a computer science developer.
 #### JavaScript
 
 1. [JavaScript: Understanding the weird parts](https://www.youtube.com/watch?v=Bv_7Zv5c-Ts&t=4763s)
-
+1. [JavaScript: Torne-se um programador](http://www.torneseumprogramador.com.br/aulas/danilo/javascript)
 
 #### React.JS
 
