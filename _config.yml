@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+title: Dalton Serey's Homepage
+description: |
+    This site expresses my personal opinions, ideas and
+    thoughts. Hence, please be considerate. It is
+    not unlikely I am wrong.
+
+google_analytics: UA-103588711-1
+plugins:
+  - jemoji
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: default
