@@ -20,29 +20,19 @@ Simple study guide for a computer science developer.
 #### Haskell
 
 1. [Tipos básicos, introdução e listas](https://drive.google.com/file/d/0Bx3dnIGjvFl1MUNrRG4yc1ppN2s/view)
-
 1. [Funções](https://drive.google.com/file/d/0Bx3dnIGjvFl1eEhpYi1ZMS1NWDg/view)
-
 1. [Lambda Calculus](https://drive.google.com/file/d/0Bx3dnIGjvFl1cjlUOE9nSDE4eEU/view)
-
 1. [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
-
 1. [Lambda Calculus - Recursão](https://www.youtube.com/watch?v=9T8A89jgeTI&feature=youtu.be)
-
 1. [Tipos de dados e módulos](https://drive.google.com/file/d/0Bx3dnIGjvFl1d1VKWU9YQUxpdjg/view)
-
 1. [Typeclasses e IO básico](https://drive.google.com/file/d/1iXauv8clwCTh1tF3IrHQCaZnm0_VxAqV/view)
-
 1. [Exceções e testes](https://drive.google.com/file/d/1LGNjAQ47Pxdkrj3hcsPFaPFb79lCUJpu/view)
-
 1. [Concorrência e paralelismo](https://drive.google.com/file/d/1itD6Xsu8RDWlj4jZcBdBI8zjhx3WSN8r/view)
-
 1. [Exercícios](https://docs.google.com/a/ccc.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcm9ncmFtYWNhby1mdW5jaW9uYWx8Z3g6MTY4Yzc2MTY2MDJmOGY4Yw)
 
 ## WEB-DEV
 
 #### General
-
 
 1. [Basic Frontend && Backend](https://projsoft-ufcg.github.io/)
 1. [Transversy Media: Web Development Crash Courses](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)

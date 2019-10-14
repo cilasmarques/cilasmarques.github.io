@@ -2,3 +2,13 @@ theme: jekyll-theme-midnight
 title: Cilas's Homepage
 description: |
     This site express a personal organization method order by my study notes's files
+
+
+
+navbar-text-col: "##32CD32"
+# navbar-children-col: "#F5F5F5"
+# page-col: "#FFFFFF"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#F5F5F5"
+footer-text-col: "##32CD32"
