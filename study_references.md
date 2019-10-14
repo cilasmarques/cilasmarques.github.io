@@ -73,8 +73,9 @@ Simple study guide for a computer science developer.
 1. [Stackoverflow: Git Reset/Rename Branch](https://stackoverflow.com/questions/15454555/how-can-i-completely-empty-the-master-branch-in-git)
 
 #### GITHUB PAGES
-1. [GitHub Help: About GitHub Pages and Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll)
-1. [Daattali: GitHub _config.yml guide](https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml)
+1. [GitHub Pages: About GitHub Pages and Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll)
+1. [GitHub Pages: GitHub Pages Themes](https://pages.github.com/themes/)
+1. [Daattali: GitHub Pages guide](https://github.com/daattali/beautiful-jekyll/blob/master)
 
 #### MarkDown
 
