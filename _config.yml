@@ -3,7 +3,12 @@ title: Cilas's Homepage
 description: |
     This site express a personal organization method order by my study notes's files
 
-
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
 
 navbar-text-col: "##32CD32"
 # navbar-children-col: "#F5F5F5"
